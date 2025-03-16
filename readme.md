@@ -1,1 +1,1 @@
-projetos para entender o git e suas funções básicas
+Projetos para entender o git e suas funções básicas utilizando exercícios de programação.
