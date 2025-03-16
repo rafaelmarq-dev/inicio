@@ -1,0 +1,1 @@
+projetos para entender o git e suas funções básicas
